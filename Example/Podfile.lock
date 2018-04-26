@@ -1,0 +1,16 @@
+PODS:
+  - myPodName (0.1.0)
+
+DEPENDENCIES:
+  - myPodName (from `../`)
+
+EXTERNAL SOURCES:
+  myPodName:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  myPodName: d86cc976df2461022327681144b84a0814450daa
+
+PODFILE CHECKSUM: 262fa6f93087753bfcff5fff0950a4296e660686
+
+COCOAPODS: 1.5.0

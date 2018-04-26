@@ -1,0 +1,22 @@
+{
+  "name": "myPodName",
+  "version": "0.1.0",
+  "summary": "A short description of myPodName.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/杨雄/myPodName",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "杨雄": "xiong.yang@dianrong.com"
+  },
+  "source": {
+    "git": "https://github.com/杨雄/myPodName.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "myPodName/Classes/**/*"
+}
