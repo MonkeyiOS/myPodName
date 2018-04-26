@@ -70,7 +70,7 @@
 		BB83C5D83F810D8C602C8E0E89C81228 /* Pods-myPodName_Tests.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-myPodName_Tests.modulemap"; sourceTree = "<group>"; };
 		D8D379A4826E15B2FFF1E50166146F95 /* Pods-myPodName_Example-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-myPodName_Example-umbrella.h"; sourceTree = "<group>"; };
 		DB1B8CCB4B21877DB49157F6610E17B8 /* Pods_myPodName_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_myPodName_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		DC8216DD0552DC38DD861CF0CEC5F22D /* myPodName.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; path = myPodName.podspec; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		DC8216DD0552DC38DD861CF0CEC5F22D /* myPodName.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; path = myPodName.podspec; sourceTree = "<group>"; };
 		DE8F8127AAA660D7B9A53BFA772F84C7 /* myPodName.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = myPodName.modulemap; sourceTree = "<group>"; };
 		E532A5ED3095B115301D13E8AFD3FE4D /* Pods-myPodName_Tests-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-myPodName_Tests-acknowledgements.markdown"; sourceTree = "<group>"; };
 		E6900E89ED052B13805E9849BB640A3E /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
